@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there, I'm Mario! 👋
 
-<!--
-**coronado04-collab/coronado04-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Data & AI Engineer**  
+🎓 Final-year **Data Science and Engineering** student at [UC3M](https://www.uc3m.es/grado/datos)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Interests & Focus
+- 🧠 **Machine Learning** | 🤖 **Artificial Intelligence**
+- 📊 **Data Science** | 🌐 **Web Development**
+
+---
+
+### 🎯 What I'm Up To
+- Building smart, scalable data solutions  
+- Applying ML techniques to real-world problems  
+- Exploring full-stack web development for AI applications
+
+---
+
+### 🎮 Outside of Tech
+When I'm not coding or studying, you'll find me:
+- 🏋️ Lifting weights  
+- 📖 Reading
+
+---
+
+### 📫 Let's Connect!
+<div align="left">
+  <a href="www.linkedin.com/in/mario-coronado-fernandez-284b04279" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
