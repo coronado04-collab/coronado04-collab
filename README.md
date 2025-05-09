@@ -5,7 +5,7 @@
 
 ---
 
-### 🚀 Interests & Focus
+### 🚀 Focus
 - 🧠 **Machine Learning** | 🤖 **Artificial Intelligence**
 - 📊 **Data Science** | 🌐 **Web Development**
 
@@ -27,7 +27,7 @@ When I'm not coding or studying, you'll find me:
 
 ### 📫 Let's Connect!
 <div align="left">
-  <a href="www.linkedin.com/in/mario-coronado-fernandez-284b04279" target="_blank">
+  <a href="https://www.linkedin.com/in/mario-coronado-fernandez/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
